@@ -4,3 +4,4 @@ target/
 *.db
 #created by Infinispan
 org.drools.persistence.info.EntityHolder/
+*.iml
