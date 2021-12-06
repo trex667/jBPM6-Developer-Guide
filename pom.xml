@@ -9,7 +9,7 @@
   <url>http://marianbuenosayres.wordpress.com</url>
   <packaging>pom</packaging>
   <properties>
-    <kie.version>6.1.0.Beta3</kie.version>
+    <kie.version>7.62.0.Final</kie.version>
     <hibernate.version>4.2.3.Final</hibernate.version>
   </properties>
   <modules>
